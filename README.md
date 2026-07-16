@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>Hi, I'm **Anshika Singh**, a final-year Computer Science undergraduate passionate about building impactful software and continuously learning new technologies.<br><br>💻 I enjoy developing **full-stack web applications** using the **MERN Stack**, solving **Data Structures & Algorithms** problems in **Java**, and exploring **AI-powered solutions**.<br><br>🚀 I'm always looking for opportunities to improve my skills, contribute to meaningful projects, and collaborate with the developer community.<br><br>**Tech I work with:** Java • JavaScript • React • Node.js • Express.js • MongoDB • SQL • Git • REST APIs<br><br>✨ *Passionate about turning ideas into real-world applications, one commit at a time.*<br>
 
 
